@@ -19,4 +19,4 @@ void divide() {
     
 }
 
-
+// all functions implemented
